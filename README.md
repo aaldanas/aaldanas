@@ -3,7 +3,7 @@
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aaldanas&theme=transparent" alt="GitHub Streak" id="streak" /></a>
   <style>
-    #streak{
+    .contenedor{
        text-align: center;
     }
   </style>
