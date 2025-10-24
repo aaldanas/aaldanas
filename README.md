@@ -1,12 +1,6 @@
 ## Hi there 👋
-<div class = contenedor">
-  
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aaldanas&theme=transparent" alt="GitHub Streak" id="streak" /></a>
-  <style>
-    .contenedor{
-       text-align: center;
-    }
-  </style>
 </div>
 <!--
 **aaldanas/aaldanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
